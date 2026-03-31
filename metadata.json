@@ -1,0 +1,5 @@
+{
+  "name": "CV-Expert AI Screener",
+  "description": "A high-performance CV screening tool that leverages Gemini AI to analyze resumes, provide deep career insights, and export professional reports to Excel.",
+  "requestFramePermissions": []
+}
